@@ -1,0 +1,27 @@
+/* Styles for the recepies */
+
+
+html {
+    background-color: rgb(30, 10 ,10);
+}
+
+* {
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(168, 168, 168);
+    
+    
+}
+
+li {
+    font-weight: 400;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: beige;
+}
+
+.ingredients {
+    font-style: oblique;
+}
